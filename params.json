@@ -1,0 +1,16 @@
+{
+  "directories": [
+    "aurorae",
+    "color-scheme",
+    "konsole",
+    "Kvantum",
+    "plasma",
+    "yakuake"
+  ],
+  "replacements": [
+    "#009a8f:#1abc9c",
+    "#009a8a:#1abc9c",
+    "#00c3dc:#1abc9c",
+    "#00BCD4:#1abc9c"
+  ]
+}
